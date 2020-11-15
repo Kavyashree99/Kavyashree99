@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi peeps 👋
 
 <!--
 **Kavyashree99/Kavyashree99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm kavyashree
+Currently working as a full stack developer in Wibmo( A PayU/ Naspers FinTech company | Wibmo is a premium payment security and mobile payments company)
