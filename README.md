@@ -19,4 +19,4 @@ I'm kavyashree
 Currently working as a full stack developer in Wibmo( A PayU/ Naspers FinTech company | Wibmo is a premium payment security and mobile payments company)
 
 ### Stats about me
-[![Kavyashree's github stats](https://github-readme-stats.vercel.app/api?username=Kavyashree99)](https://github.com/Kavyashree99/github-readme-stats)
+![Kavyashree's github stats](https://github-readme-stats.vercel.app/api?username=Kavyashree99&show_icons=true&theme=radical)
