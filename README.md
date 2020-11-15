@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### who am i
+### I'm
 <h1 align="">Kavyashree B S</h1> 
 
 ### Working Profile
