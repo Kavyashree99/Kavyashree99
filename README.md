@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 -->
 ### who am i
 <h1 align="">Kavyashree B S</h1> 
-###  Working Profile
+
+### Working Profile
 Currently working as a full stack developer in Wibmo( A PayU/ Naspers FinTech company | Wibmo is a premium payment security and mobile payments company)
 
 ### 🔭Technologies on which I'm working now
