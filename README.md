@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 -->
 I'm kavyashree
 Currently working as a full stack developer in Wibmo( A PayU/ Naspers FinTech company | Wibmo is a premium payment security and mobile payments company)
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<top-langs>/?username=<Kavyashree99>&theme=<THEME_NAME>" />
