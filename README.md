@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="">I'm </h2><h1 align="">Kavyashree B S</h1> 
+<h1 align="">Kavyashree B S</h1> 
 
 ### Working Profile
 Currently working as a full stack developer in Wibmo( A PayU/ Naspers FinTech company | Wibmo is a premium payment security and mobile payments company)
