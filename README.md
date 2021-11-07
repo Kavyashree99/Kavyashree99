@@ -39,7 +39,7 @@ Previously Worked as a full stack developer in Wibmo( A PayU/ Naspers FinTech co
 - the above mentioned things
 
 ### 🤔 I’m looking for help with ...
-- To fasten up learnings with any inputs that are welcome open heartedly, Thanks in Advance
+- To fasten up my above learnings with any inputs that are welcome open heartedly, Thanks in Advance
 
 
 ### 📫 How to reach me: ... 
