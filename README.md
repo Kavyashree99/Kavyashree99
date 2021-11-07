@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="">Kavyashree B S</h1> 
 
 ### Working Profile
-- Currently Working as Deputy Engineer at Software Unit in Bharat Electronics Limited (Ministry of Defence.India)
+- Currently Working as a Deputy Engineer at Software Unit in Bharat Electronics Limited (Ministry of Defence.India)
 - Previously Worked as a full stack developer in Wibmo( A PayU/ Naspers FinTech company | Wibmo is a premium payment security and mobile payments company)
 
 
